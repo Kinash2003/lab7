@@ -1,0 +1,5 @@
+﻿  7.2.rec.cpp
+D:\Lab_7\7.2.rec\7.2.rec\7.2.rec.cpp(15,2): error C3861: CreateRows: идентификатор не найден
+D:\Lab_7\7.2.rec\7.2.rec\7.2.rec.cpp(16,2): error C3861: PrintRows: идентификатор не найден
+D:\Lab_7\7.2.rec\7.2.rec\7.2.rec.cpp(19,2): error C3861: SearchFirstEven: идентификатор не найден
+D:\Lab_7\7.2.rec\7.2.rec\7.2.rec.cpp(22,3): error C3861: SearchMaxEven: идентификатор не найден

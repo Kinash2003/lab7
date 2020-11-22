@@ -1,0 +1,4 @@
+﻿  7.1.-а.-b.test.cpp
+     Создается библиотека D:\Lab_7\7.1.-а.-b\Debug\7.1.-а.-b.test.lib и объект D:\Lab_7\7.1.-а.-b\Debug\7.1.-а.-b.test.exp
+LINK : warning LNK4232: имя 7.1.-а.-b.test.dll содержит не ASCII символы, DLL нельзя будет загрузить в систему с кодовой страницей ANSI, отличной от 1251
+  7.1.-а.-b.test.vcxproj -> D:\Lab_7\7.1.-а.-b\Debug\7.1.-а.-b.test.dll
